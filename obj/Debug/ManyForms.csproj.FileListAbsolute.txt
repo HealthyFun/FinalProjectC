@@ -1,0 +1,9 @@
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.Properties.Resources.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.csproj.GenerateResource.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\bin\Debug\ManyForms.exe.config
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\bin\Debug\ManyForms.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\bin\Debug\ManyForms.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\ManyForms\obj\Debug\ManyForms.csproj.CoreCompileInputs.cache
