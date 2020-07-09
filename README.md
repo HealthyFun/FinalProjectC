@@ -1,6 +1,6 @@
 # Many_Forms C#
 
-*08/07/2020 is the recent updates to the codebase.*
+*07/09/2020 is the recent updates to the codebase.*
 
 -----
 To code this project I used my skills in HTML and CSS languages, also my knowledge BEM technology.
